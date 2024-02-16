@@ -1,3 +1,3 @@
 ## University-Website
 It is a simple website focusing on HTML, CSS, and JavaScript.
- ![login](login.jpg)
+- ![login](image.jpg)
